@@ -1,5 +1,5 @@
 # Hosting URL: https://tesla-clone-8a7b0.web.app
-# video: 
+# video: https://youtu.be/mWW_6H6XTyw
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
